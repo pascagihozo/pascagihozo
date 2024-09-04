@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pascagihozo
-- 📫 You can reachout to me using my email: pascagihozo@gmail.com
+- 📫 You can reachout to me on: pascagihozo@gmail.com
 
 <!---
 pascagihozo/pascagihozo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
